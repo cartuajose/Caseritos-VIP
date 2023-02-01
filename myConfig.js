@@ -1,10 +1,10 @@
 let MensajeAd =
-	"​🚨*Promociona lo que desees!*🚨 \n \n" +
-	"	🎁	- Web de afiliados / referidos \n" +
-	"	🤑	- Acortador con AdsTerra \n" +
-	"	📈	- Página con exoclick \n" +
-	"	🗺	- Redirige el tráfico a @otrosCanales o a una página web \n \n" +
-	"['Click Aquí🔥'](https://www.amazon.es)"
+	"​🚨*Bienvenido al Canal más HOT!*🚨 \n \n" +
+	"	🎁	- Consolador masculino \n" +
+	"	🤑	- Curso Apuestas 0% Riesgo \n" +
+	"	📈	- Síguenos en Instragram \n" +
+	"	🗺	- Canal VIP de Apuestas GRATIS \n \n" +
+	"['Ver Canal Prohibido 🔥'](https://t.me/+KPrOqeY-nt1jMjYx)"
 
 /*let MensajeAd3 =
 	"​🚨*Promociona lo que desees!*🚨 \n \n"*/
@@ -27,26 +27,26 @@ const MY_AD = {
 		linksGroupAd: [
 			[
 				{
-					text: "Web Afiliados / Referidos",
-					url: "https://youtube.com",
+					text: "Consolador masculino",
+					url: "https://amzn.to/3HIEjk8",
 				},
 			],
 			[
 				{
-					text: "Acortador de enlaces",
-					url: "https://facebook.com",
+					text: "Curso Apuestas 0% Riesgo",
+					url: "https://ganarenapuestas.com/",
 				},
 			],
 			[
 				{
-					text: "Web con anuncios",
-					url: "https://stripchat.com",
+					text: "Síguenos en Instragram",
+					url: "https://www.instagram.com/bellas.princesass/",
 				},
 			],
 			[
 				{
-					text: "Promociona otro canal",
-					url: "https://tiktok.com",
+					text: "Canal VIP de Apuestas GRATIS",
+					url: "https://t.me/apuestasverdesgratuito",
 				},
 			],
 		],
