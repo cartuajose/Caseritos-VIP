@@ -4,7 +4,7 @@ let MensajeAd =
 	"	🤑	- Curso Apuestas 0% Riesgo \n" +
 	"	📈	- Síguenos en Instragram \n" +
 	"	🗺	- Canal VIP de Apuestas GRATIS \n \n" +
-	"['Ver Canal Prohibido 🔥'](https://t.me/BestCrackpacks)"
+	"['Apuestas analizadas Gratis 🔥'](https://t.me/BestCrackpacks)"
 
 /*let MensajeAd3 =
 	"​🚨*Promociona lo que desees!*🚨 \n \n"*/
@@ -46,7 +46,7 @@ const MY_AD = {
 			[
 				{
 					text: "Canal VIP de Apuestas GRATIS",
-					url: "https://t.me/apuestasverdesgratuito",
+					url: "https://t.me/BestCrackpacks",
 				},
 			],
 		],
