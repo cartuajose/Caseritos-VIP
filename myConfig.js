@@ -46,7 +46,7 @@ const MY_AD = {
 			[
 				{
 					text: "Canal VIP de Apuestas GRATIS",
-					url: "https://t.me/BestCrackpacks",
+					url: "https://t.me/+jFkhI83IjgwwY2Q5",
 				},
 			],
 		],
