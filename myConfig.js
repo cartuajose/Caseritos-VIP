@@ -4,7 +4,7 @@ let MensajeAd =
 	"	🤑	- Curso Apuestas 0% Riesgo \n" +
 	"	📈	- Síguenos en Instragram \n" +
 	"	🗺	- Canal VIP de Apuestas GRATIS \n \n" +
-	"['Apuestas analizadas Gratis 🔥'](https://t.me/BestCrackpacks)"
+	"['Apuestas analizadas Gratis 🔥'](https://t.me/+jFkhI83IjgwwY2Q5)"
 
 /*let MensajeAd3 =
 	"​🚨*Promociona lo que desees!*🚨 \n \n"*/
