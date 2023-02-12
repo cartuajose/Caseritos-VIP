@@ -1,10 +1,10 @@
 let MensajeAd =
 	"​🚨*Bienvenido al Canal más HOT!*🚨 \n \n" +
-	"	🎁	- Consolador masculino \n" +
-	"	🤑	- Curso Apuestas 0% Riesgo \n" +
-	"	📈	- Síguenos en Instragram \n" +
+	"	🎁	- Gana dinero desde casa \n" +
+	"	🤑	- Analista experto para ser rentable \n" +
+	"	📈	- Canal gratuito de apuestas +100k \n" +
 	"	🗺	- Canal VIP de Apuestas GRATIS \n \n" +
-	"['Apuestas analizadas Gratis 🔥'](https://t.me/+jFkhI83IjgwwY2Q5)"
+	"['Apuestas analizadas Gratis 🔥'](https://t.me/+tW2CFlZnHIljZmNh)"
 
 /*let MensajeAd3 =
 	"​🚨*Promociona lo que desees!*🚨 \n \n"*/
@@ -27,26 +27,26 @@ const MY_AD = {
 		linksGroupAd: [
 			[
 				{
-					text: "Consolador masculino",
-					url: "https://amzn.to/3HIEjk8",
+					text: "Gana dinero desde casa",
+					url: "https://t.me/+tW2CFlZnHIljZmNh",
 				},
 			],
 			[
 				{
-					text: "Curso Apuestas 0% Riesgo",
-					url: "https://ganarenapuestas.com/",
+					text: "Analista experto para ser rentable",
+					url: "https://t.me/+tW2CFlZnHIljZmNh",
 				},
 			],
 			[
 				{
-					text: "Síguenos en Instragram",
-					url: "https://www.instagram.com/bellas.princesass/",
+					text: "Canal gratuito de apuestas +100k",
+					url: "https://t.me/+tW2CFlZnHIljZmNh",
 				},
 			],
 			[
 				{
 					text: "Canal VIP de Apuestas GRATIS",
-					url: "https://t.me/+jFkhI83IjgwwY2Q5",
+					url: "https://t.me/+tW2CFlZnHIljZmNh",
 				},
 			],
 		],
