@@ -1,10 +1,10 @@
 let MensajeAd =
 	"​🚨*Bienvenido al Canal más HOT!*🚨 \n \n" +
-	"	🎁	- Gana dinero desde casa \n" +
-	"	🤑	- Analista experto para ser rentable \n" +
-	"	📈	- Canal gratuito de apuestas +100k \n" +
-	"	🗺	- Canal VIP de Apuestas GRATIS \n \n" +
-	"['Apuestas analizadas Gratis 🔥'](https://t.me/+tW2CFlZnHIljZmNh)"
+	"	🔥	- Soy Sofia la más caliente \n" +
+	"	🔥	- OnlyFans y conversaiones privadas \n" +
+	"	🔥	- Fotos prohibidas \n" +
+	"	🔥	- Me masturbo para tí \n \n" +
+	"['Entra en mi canal 🔥'](http://t.me/soysofiaonly)"
 
 /*let MensajeAd3 =
 	"​🚨*Promociona lo que desees!*🚨 \n \n"*/
@@ -21,32 +21,32 @@ const MY_AD = {
 		ctn: MensajeAd,
 		image: imagenAd,
 		link: {
-			text: "Canal vip ❤",
-			url: "https://google.com",
+			text: "Soy Sofia la más caliente ❤",
+			url: "http://t.me/soysofiaonly",
 		},
 		linksGroupAd: [
 			[
 				{
-					text: "Gana dinero desde casa",
-					url: "https://t.me/+tW2CFlZnHIljZmNh",
+					text: "Soy Sofia la más caliente",
+					url: "http://t.me/soysofiaonly",
 				},
 			],
 			[
 				{
-					text: "Analista experto para ser rentable",
-					url: "https://t.me/+tW2CFlZnHIljZmNh",
+					text: "OnlyFans y conversaiones privadas",
+					url: "http://t.me/soysofiaonly",
 				},
 			],
 			[
 				{
-					text: "Canal gratuito de apuestas +100k",
-					url: "https://t.me/+tW2CFlZnHIljZmNh",
+					text: "Fotos prohibidas",
+					url: "http://t.me/soysofiaonly",
 				},
 			],
 			[
 				{
-					text: "Canal VIP de Apuestas GRATIS",
-					url: "https://t.me/+tW2CFlZnHIljZmNh",
+					text: "Me masturbo para tí",
+					url: "http://t.me/soysofiaonly",
 				},
 			],
 		],
