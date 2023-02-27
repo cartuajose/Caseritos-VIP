@@ -1,7 +1,7 @@
 let MensajeAd =
 	"​🚨*Bienvenido al Canal más HOT!*🚨 \n \n" +
 	"	🔥	- Soy Sofia la más caliente \n" +
-	"	🔥	- OnlyFans y conversaiones privadas \n" +
+	"	🔥	- OnlyFans y conversaciones privadas \n" +
 	"	🔥	- Fotos prohibidas \n" +
 	"	🔥	- Me masturbo para tí \n \n" +
 	"['Entra en mi canal 🔥'](http://t.me/soysofiaonly)"
@@ -33,7 +33,7 @@ const MY_AD = {
 			],
 			[
 				{
-					text: "OnlyFans y conversaiones privadas",
+					text: "OnlyFans y conversaciones privadas",
 					url: "http://t.me/soysofiaonly",
 				},
 			],
